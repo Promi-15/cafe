@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/D8tZLV6/front-view-desk-concept-with-copy-space.jpg",
+      "title": "The Lost Kingdom",
+      "author": "Emily Stone",
+      "author_img": "https://i.ibb.co/860Xwnk/bohemian-man-with-his-arms-crossed.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 15 ,
+      "hashtags": ["#adventure", "#fantasy", "#mystery"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/t2yj7qy/elevated-view-notepad-pen-laptop-smartphone-wooden-background.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Michael Woods",
+      "author_img": "https://i.ibb.co/8zbYTrr/friendly-smiling-woman-looking-pleased-front.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 20 ,
+      "hashtags": ["#scifi", "#time-travel", "#dystopia"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/xXbZ660/laptop-notepad-black-background-with-neon-light-flat-lay.jpg",
+      "title": "Midnight Shadows",
+      "author": "Samantha Rivers",
+      "author_img": "https://i.ibb.co/HpvyQCw/confident-african-businesswoman-smiling-closeup-portrait-jobs-career-campaign.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 25 ,
+      "hashtags": ["#thriller", "#suspense", "#crime"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/NxZDNny/programming-background-concept.jpg",
+      "title": "Whispers in the Dark",
+      "author": "Benjamin Hayes",
+      "author_img": "https://i.ibb.co/hDXFQ5T/portrait-beautiful-girl-with-short-ginger-hair-looks-with-happy-relaxed-expression.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 18 ,
+      "hashtags": ["#horror", "#supernatural", "#mystery"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/NxZDNny/programming-background-concept.jpg",
+      "title": "Beyond the Stars",
+      "author": "Rachel Lee",
+      "author_img": "https://i.ibb.co/4ttj0vr/businesswoman-executive-professional-success-concept.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 22 ,
+      "hashtags": ["#romance", "#space", "#adventure"]
+    }
+  ]
+  
